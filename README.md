@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Vulavakattu</h1>
 
-<h3 align="center">CSIT Student | Full Stack Developer | Cloud Learner ☁</h3>
+<h3 align="center">CSIT Student | Full Stack Developer | Cloud computing ☁</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -60,15 +60,9 @@
 
 ## 🌐 Connect with Me
 
-Email: yourmail@gmail.com
+Email: vulavakattuvenkatesh@gmail.com
 
-LinkedIn: add later
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+LinkedIn: www.linkedin.com/in/vulavakattuvenkatesh
 
 ---
 
